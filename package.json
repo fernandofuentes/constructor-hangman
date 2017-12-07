@@ -1,0 +1,22 @@
+{
+  "name": "constructor-hangman",
+  "version": "1.0.0",
+  "description": "",
+  "main": "game.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fernandofuentes/constructor-hangman.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fernandofuentes/constructor-hangman/issues"
+  },
+  "homepage": "https://github.com/fernandofuentes/constructor-hangman#readme",
+  "dependencies": {
+    "inquirer": "^4.0.1"
+  }
+}
